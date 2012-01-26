@@ -1,0 +1,38 @@
+---
+layout: default
+title: Sean Bowman's Mathematics Projects
+---
+
+<h2>Current work</h2> 
+
+<p><img src="/images/hbody-scaled.png" class="floatright" /> My current
+work involves knots
+in <a href="http://en.wikipedia.org/wiki/Handlebody">handlebodies</a>
+with nontrivial handlebody surgeries.  Since 3-manifolds are often
+described by <a href="http://en.wikipedia.org/wiki/Dehn_surgery">Dehn
+surgery</a>, understanding the relationship between manifold, knot,
+and surgery slope is of fundamental importance in 3-manifold topology.
+In particular it is good to understand when a knot yields a
+particularly simple space after surgery.</p>
+
+<p> In my
+thesis, I give examples of knots in handlebodies which have nontrivial
+handlebody surgeries yet are not 1-bridge knots.  This disproves a
+conjecture of Wu and further explores work of Gabai and Berge.  You
+can <a href="/documents/research-statement.pdf">read my research
+statement here</a>.
+</p>
+
+<p>In addition to Dehn surgery on knots, I am also interested in
+computational/applied topology
+and <a href="http://en.wikipedia.org/wiki/Topological_data_analysis">topological
+data analysis</a>.</p>
+
+Here is some of my previous mathematical work:
+
+{% for post in site.categories['mathematics'] %}
+<h2>{{ post.title }}</h2>
+<p>{% if post.image %}<img src="{{ post.image }}" class="floatleft" />{% endif %}
+  {{ post.content }}</p>
+{% endfor %}
+

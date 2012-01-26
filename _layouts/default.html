@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/css/style.css" type="text/css"> 
+    <link href="http://fonts.googleapis.com/css?family=Vollkorn&amp;subset=latin" rel="stylesheet" type="text/css">
+    <script src="/js/hyphenate.js" type="text/javascript">
+    </script>
+  </head>
+  <body>
+    <div class="container hyphenate">
+      <div id="header">
+        <a href="/"><img src="/images/sean.jpg" id="photo" /></a>
+        <h1 class="title"><a href="/">R. Sean Bowman</a></h1>
+        <p>University of Texas, Austin<br>
+          Math department<br>
+          Email: r.sean.bowman (at) gmail.com</p>
+        <p><a href="/documents/cv.pdf">cv (pdf)</a><br />
+          <a href="/publications">list of publications</a></p>
+      </div>
+      <div class="clear"></div>
+      <div class="section">
+      {{ content }}
+      </div>
+    </div>
+  </body>
+</html>
