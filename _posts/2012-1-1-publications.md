@@ -10,3 +10,11 @@ title: Publications
 - J. C. Lusth and R. S. Bowman. A Minimalist Approach to Objects. *Computer Languages, Systems, and Structures*, 32(1), 2006.
 - Kyle Cranmer and R. Sean Bowman. [PhysicsGP: A Genetic Programming approach to event selection](http://arxiv.org/abs/physics/0402030). *Computer Physics Communications*, 167(3), 2005.
 - R. Sean Bowman and Henry Hexmoor. Agent Collaboration and Social Networks. In *Proceedings of Knowledge Intensive Multiagent Systems (KIMAS)*, 2005.
+
+## Talks
+
+- Caltech Topology Seminar, February 2012
+- Joint Meetings of the AMS/MAA, January 2012
+- University of Texas Topology Seminar, October 2011
+- University of Arkansas Topology Seminar, March 2011
+- Austin Math Circle, September 2010 (audience of elementary through high school students)

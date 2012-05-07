@@ -46,6 +46,6 @@ Here are some other teaching related projects I've been involved in:
 {% for post in site.categories.teaching %}
 <h2>{{ post.title }}</h2>
 <p>{% if post.image %}<img src="{{ post.image }}" class="floatleft" />{% endif %}
-  {{ post.content }}</p>
+  {{ post.content | markdownify }}</p>
 <div style="clear:both;"></div>
 {% endfor %}
