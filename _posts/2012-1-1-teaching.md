@@ -40,6 +40,7 @@ particular.  Here are a few:
 - University of Arkansas Topology Seminar, Spring 2011
 - University of Texas Topology Seminar, Fall 2011
 - AMS/MAA Joint Meetings, Winter 2012
+- Caltech Topology Seminar, Winter 2012
 
 Here are some other teaching related projects I've been involved in:
 
