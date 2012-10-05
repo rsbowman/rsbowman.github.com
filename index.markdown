@@ -4,12 +4,11 @@ title: Sean Bowman
 ---
 
 I am a <a href="/mathematics">Mathematician</a>, <a href="/programming">software
-developer</a>, and <a href="/teaching">teacher</a>.  Currently I'm finishing up
-my Ph.D. in Mathematics at UT, Austin.
+developer</a>, and <a href="/teaching">teacher</a>.  Currently I'm a Visiting Assistant Professor of Mathematics at <a href="http://www.math.okstate.edu/">Oklahoma State University</a>.
 
-### Ph.D. Work
+### Mathematics
 
-My Ph.D. thesis deals with <a href="http://en.wikipedia.org/wiki/Dehn_surgery">Dehn surgery</a> on knots in <a href="http://en.wikipedia.org/wiki/Handlebody">handlebodies</a>.  I have constructed several infinite families of knots which have surgeries again yielding handlebodies.  Such knots were thought to be relatively simple in terms of an invariant called bridge number, but my examples disprove this conjecture. <a href="/mathematics">Read more about my work in mathematics</a>.
+I got my Ph.D. in Mathematics from the University of Texas at Austin in May 2012 under the supervision of John Luecke.  My Ph.D. thesis deals with <a href="http://en.wikipedia.org/wiki/Dehn_surgery">Dehn surgery</a> on knots in <a href="http://en.wikipedia.org/wiki/Handlebody">handlebodies</a>.  I have constructed several infinite families of knots which have surgeries again yielding handlebodies.  Such knots were thought to be relatively simple in terms of an invariant called bridge number, but my examples disprove this conjecture. <a href="/mathematics">Read more about my work in mathematics</a>.  
 
 ### Software Development
 
