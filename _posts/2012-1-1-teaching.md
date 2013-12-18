@@ -34,13 +34,7 @@ Here is a more or less complete list of classes I have taught:
 
 In addition to undergraduate teaching, I have also had many
 opportunities to speak about mathematics in general and my work in
-particular.  Here are a few:
-
-- Austin Math Circle, Fall 2010 (Grade school students)
-- University of Arkansas Topology Seminar, Spring 2011
-- University of Texas Topology Seminar, Fall 2011
-- AMS/MAA Joint Meetings, Winter 2012
-- Caltech Topology Seminar, Winter 2012
+particular.  My [publications and talks](/publications) page has a complete list.
 
 Here are some other teaching related projects I've been involved in:
 

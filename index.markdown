@@ -8,7 +8,16 @@ developer</a>, and <a href="/teaching">teacher</a>.  Currently I'm a Visiting As
 
 ### Mathematics
 
-I got my Ph.D. in Mathematics from the University of Texas at Austin in May 2012 under the supervision of John Luecke.  My Ph.D. thesis deals with <a href="http://en.wikipedia.org/wiki/Dehn_surgery">Dehn surgery</a> on knots in <a href="http://en.wikipedia.org/wiki/Handlebody">handlebodies</a>.  I have constructed several infinite families of knots which have surgeries again yielding handlebodies.  Such knots were thought to be relatively simple in terms of an invariant called bridge number, but my examples disprove this conjecture. <a href="/mathematics">Read more about my work in mathematics</a>.  
+I got my Ph.D. in Mathematics from the University of Texas at Austin in May 2012 under the supervision of John Luecke.   I am currently working on several projects
+
+* giving bounds on the bridge numbers of certain families of knots,
+* constructing knots with prescribed bridge numbers and interesting Dehn surgeries, and
+* examining the relationship between the bridge numbers of a knot and properties of the knot exterior, such as its Heegaard structure. 
+
+In addition to these topics, I am also interested in <a href="http://en.wikipedia.org/wiki/Topological_data_analysis">topological
+data analysis</a>. 
+
+<a href="/mathematics">Read more about my work in mathematics.</a>
 
 ### Software Development
 
