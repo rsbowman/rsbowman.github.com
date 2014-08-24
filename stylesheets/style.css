@@ -15,7 +15,7 @@ h5 a, h6 a                  { text-decoration: none; }
 h1 a:hover, h2 a:hover,
 h3 a:hover, h4 a:hover      { color: #432165; text-decoration: underline; }
 /*h1.title                    { width: 560px; }*/
-h1, h2                      { margin: 10px 0 25px 0; }
+h1, h2, h3                     { margin: 10px 0 15px 0; }
 h1                          { font-size: 48px; line-height: 52px; }
 h2                          { font-size: 36px; line-height: 40px; }
 h3                          { font-size: 30px; line-height: 34px; }
@@ -43,11 +43,11 @@ div.footer p                { margin: 0; }
 
 /* margins and stuff */
 p, div.line-block, ul, ol, pre,
-    table                       { margin: 25px 0 25px 0; }
+    table                       { margin: 15px 0 15px 0; }
 dt                              { margin: 25px 0 16px 0; padding: 0; }
 dd                              { margin: 16px 0 25px 40px; padding: 0; }
 ul ol, ol ul, ul ul, ol ol      { margin: 10px 0; padding: 0 0 0 40px; }
-li                              { padding: 0; }
+li                              { padding: 0px 0 5px 0; }
 h1 + p.date                     { margin-top: -28px; font-style: italic; }
 
 /* code formatting.  no monospace because of webkit (bug?) */
