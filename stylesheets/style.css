@@ -40,7 +40,7 @@ div#footer                  { text-align: center; font-size: 14px; margin: 1em 0
                               text-align: center; }
 div.footer p                { margin: 0; } */
 
-hr.separator                { width: 740px; align=center; }
+hr.separator                { width: 740px; text-align: center; margin 0 auto; }
 
 .section { margin-top: 1em; text-align: justify;}
 
