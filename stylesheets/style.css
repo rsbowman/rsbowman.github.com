@@ -34,7 +34,7 @@ div.navigation              { float: right; }
 div.navigation ul           { margin: 0; padding: 0; list-style: none; }
 div.navigation ul li        { display: inline; margin: 0 2px; padding: 0; }
 div.body                    { clear: both; }
-div#footer                  { text-align: center; font-size: 14px; }
+div#footer                  { text-align: center; font-size: 14px; margin: 1em 0 2em 0; }
 /* OLD FOOTER { border-top: 1px dotted #ddd; padding-top: 9px;
                               margin-top: 42px; font-size: 16px; color: #888;
                               text-align: center; }
