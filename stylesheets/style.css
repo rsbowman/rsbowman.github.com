@@ -34,10 +34,13 @@ div.navigation              { float: right; }
 div.navigation ul           { margin: 0; padding: 0; list-style: none; }
 div.navigation ul li        { display: inline; margin: 0 2px; padding: 0; }
 div.body                    { clear: both; }
-div.footer                  { border-top: 1px dotted #ddd; padding-top: 9px;
+div#footer                  { text-align: center; font-size: 14px; }
+/* OLD FOOTER { border-top: 1px dotted #ddd; padding-top: 9px;
                               margin-top: 42px; font-size: 16px; color: #888;
                               text-align: center; }
-div.footer p                { margin: 0; }
+div.footer p                { margin: 0; } */
+
+hr.separator                { width: 740px; align=center; }
 
 .section { margin-top: 1em; text-align: justify;}
 
